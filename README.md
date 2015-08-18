@@ -1,4 +1,4 @@
-# upgradeya-website-base
+# UpgradeYa website base
 Development environment for UpgradeYa public website using decompose
 
 ## Requirements
