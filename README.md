@@ -3,9 +3,9 @@ Development environment for UpgradeYa public website using decompose
 
 ## Requirements
 
-- Docker
-- Docker Compose
-- decompose
+- [Docker](https://www.docker.com/)
+- [Docker Compose](https://www.docker.com/docker-compose)
+- [decompose](https://github.com/dmp1ce/decompose)
 
 ### Usage
 
