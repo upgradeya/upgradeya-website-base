@@ -1,0 +1,5 @@
+# decompose files
+/.decompose
+
+# Generated files
+/docker-compose.yml

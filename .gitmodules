@@ -1,0 +1,3 @@
+[submodule "containers/web/html"]
+	path = containers/web/html
+	url = https://github.com/upgradeya/upgradeya.github.io.git
