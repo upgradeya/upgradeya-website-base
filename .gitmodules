@@ -1,0 +1,7 @@
+[submodule ".decompose/environment"]
+	path = .decompose/environment
+	url = https://github.com/dmp1ce/decompose-nginx-static-web.git
+	branch = master
+[submodule "containers/web/html"]
+	path = containers/web/html
+	url = https://github.com/upgradeya/upgradeya.github.io.git
