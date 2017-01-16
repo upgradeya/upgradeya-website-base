@@ -14,12 +14,7 @@ Download decompose scripts
 $ decompose --update
 ```
 
-Process decompose templates
-```
-$ decompose --build
-```
-
-Start docker containers
+Build project
 ```
 $ decompose build
 ```
