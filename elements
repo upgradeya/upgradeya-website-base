@@ -3,7 +3,7 @@
 # Put them in .decompose/elements where they won't get checked in.
 
 PROJECT_ENVIRONMENT="production"
-PROJECT_NGINX_VIRTUAL_HOST="upgradey.com"
+PROJECT_NGINX_VIRTUAL_HOST="upgradeya.com"
 PROJECT_NGINX_VIRTUAL_HOST_ALTS="www.upgradeya.com webpagedesigncompany.net www.webpagedesigncompany.net"
 PROJECT_NGINX_PROXY_VIRTUAL_HOSTS=$(echo "$PROJECT_NGINX_VIRTUAL_HOST $PROJECT_NGINX_VIRTUAL_HOST_ALTS" | tr ' ' ,)
 
